@@ -1,9 +1,9 @@
 {
   "author": {
-    "name": "Tim Honders"
+    "name": "luozhangshuai"
   },
   "bugs": {
-    "url": "https://github.com/kegaretail/react-native-rabbitmq/issues"
+    "url": "https://github.com/luozhangshuai/react-native-rabbitmq/issues"
   },
   "bundleDependencies": false,
   "dependencies": {},
@@ -11,7 +11,7 @@
   "description": "A RabbitMq component for React Native.",
   "devDependencies": {},
   "directories": {},
-  "homepage": "https://github.com/kegaretail/react-native-rabbitmq",
+  "homepage": "https://github.com/luozhangshuai/react-native-rabbitmq",
   "keywords": [
     "react-native",
     "react",
@@ -21,8 +21,8 @@
   "main": "index.js",
   "maintainers": [
     {
-      "name": "timhonders",
-      "email": "tim.honders@kega.nl"
+      "name": "luozhangshuai",
+      "email": "914401482@qq.com"
     }
   ],
   "name": "react-native-rabbitmq",
@@ -30,7 +30,7 @@
   "optionalDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kegaretail/react-native-rabbitmq.git"
+    "url": "git+https://github.com/luozhangshuai/react-native-rabbitmq.git"
   },
   "scripts": {},
   "version": "0.6.7"
